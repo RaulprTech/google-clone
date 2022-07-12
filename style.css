@@ -34,7 +34,7 @@ header nav {
     justify-content: right;
 }
 
-nav .nav-right-section .menu-icon {
+/* nav .nav-right-section .menu-icon {
     background-image: url('https://img.icons8.com/ios-glyphs/30/000000/circled-menu.png');
     background-repeat: no-repeat;
     background-position: center;
@@ -43,7 +43,7 @@ nav .nav-right-section .menu-icon {
     height: 17px;
     margin: 0 14px;
     cursor: pointer;
-}
+} */
 
 nav .nav-right-section img {
     border-radius: 50px;
